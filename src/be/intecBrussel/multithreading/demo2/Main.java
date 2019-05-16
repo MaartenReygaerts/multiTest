@@ -25,6 +25,7 @@ public class Main {
             System.out.println(value + " : " + result);
             if(result != (value * value)){
                 System.out.println("Error");
+                System.out.println("test");
             }
 
         }
